@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Transducer';
+  src: url('./Transducer.otf')
+}
+
+body {
+  @apply bg-gradient-to-tr from-slate-900 to-slate-950
+}
+* {
+  font-family: 'Transducer', sans-serif;
+}

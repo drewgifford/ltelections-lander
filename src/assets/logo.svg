@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.164" y1="0.832" x2="0.986" y2="-0.014" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff0052"/>
+      <stop offset="1" stop-color="#0047ff"/>
+    </linearGradient>
+    <clipPath id="clip-Favicon">
+      <rect width="256" height="256"/>
+    </clipPath>
+  </defs>
+  <g id="Favicon" clip-path="url(#clip-Favicon)">
+    <g id="BL_Logo" data-name="BL Logo" transform="translate(-360.698 -1006.68)">
+      <g id="Group_6" data-name="Group 6" transform="translate(394.28 1018.46)">
+        <path id="Path_2" data-name="Path 2" d="M561.647,1018.46l-31.765,31.984H426.264v124.868H551.132v-58.053l31.984-31.765v93.98c0,12.224-15.569,27.822-27.822,27.822H394.28V1046.282c0-12.233,15.593-27.822,27.822-27.822Z" transform="translate(-394.28 -1018.46)"/>
+        <rect id="Rectangle_27" data-name="Rectangle 27" width="188.835" height="29.622" transform="translate(0 202.818)"/>
+        <path id="Path_3" data-name="Path 3" d="M876.766,1022.16v44.909L776.592,1167.15l-49.222-48.82,22.556-22.556,26.942,26.087Z" transform="translate(-687.93 -1021.722)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
